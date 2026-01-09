@@ -5,7 +5,7 @@ description: Portfolio de développeur web - Étudiant Epitech
 
 # Configuration des liens (Très important pour Epitech)
 baseurl: "/portfolio" # Laisse vide pour le moment
-url: "https://walidghg.github.io/"
+url: "https://walidghg.github.io"
 
 # Dossiers à ignorer lors de la construction du site
 exclude:
