@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="{{ '/' | relative_url }}" class="logo">
+            <img src="{{ '/asset/wallpapers.jpg' | relative_url }}" alt="Logo" style="height: 40px; border-radius: 50%;">
+        </a> 
+        <div class="nav-links">
+            <a href="{{ '/realisations.html' | relative_url }}">Réalisations</a>
+            <a href="{{ '/apropos.html' | relative_url }}">À propos</a>
+            <a href="{{ '/contact.html' | relative_url }}" class="btn-contact">Contact</a>
+        </div>
+    </nav>
+
+    {{ content }}
+</body>
+</html>

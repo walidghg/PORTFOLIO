@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walid Ghouzza | Développeur</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+       <a href="/" class="logo">
+    <img src="/asset/wallpapers.jpg" alt="Logo Walid Ghouzza" style="height: 40px; width: auto;">
+</a> 
+        <div class="nav-links">
+        <a href="{{ '/realisations/' | relative_url }}" style="text-decoration: none; color: black; margin-left: 20px; font-weight: 600;">Réalisations</a>
+            <a href="#a-propos">À propos</a>
+        <a href="/contact" class="btn-contact" style="background: #000; color: #fff; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: 600; font-size: 0.9rem; margin-left: 20px;">Contact</a>
+        </div>
+    </nav>
+    {{ content }}
+</body>
+</html>
