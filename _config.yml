@@ -4,8 +4,8 @@ email: walid.ghouzza@epitech.eu
 description: Portfolio de développeur web - Étudiant Epitech
 
 # Configuration des liens (Très important pour Epitech)
-baseurl: "" # Laisse vide pour le moment
-url: "https://walidghg.github.io/portfolio-V2/"
+baseurl: "/portfolio" # Laisse vide pour le moment
+url: "https://walidghg.github.io/"
 
 # Dossiers à ignorer lors de la construction du site
 exclude:
