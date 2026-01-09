@@ -1,13 +1,24 @@
 ---
 layout: default
+title: Accueil
 ---
 
+# Walid<br>Ghouzza.
+<div class="mini-trait"></div>
+
+<br>
+
 <section class="hero">
-  <h1>Walid<br>Ghouzza.</h1>
   <p>Bonjour, je m'appelle Walid Ghouzza, j'ai 20 ans et je suis en formation de développeur web chez Epitech. Combattant de jiu-jitsu brésilien, je combine la rigueur du sport et la précision du code.</p>
 </section>
 
+<div class="separator separator-md"></div>
+
 <h2 class="section-title">Mes Valeurs</h2>
+<div class="mini-trait"></div>
+
+<br>
+
 <section class="grid">
   <div class="card">
     <h3>Adaptabilité</h3>
@@ -23,7 +34,13 @@ layout: default
   </div>
 </section>
 
+<div class="separator separator-md"></div>
+
 <h2 class="section-title">Témoignages</h2>
+<div class="mini-trait"></div>
+
+<br>
+
 <section class="grid">
   <div class="card" style="background: #aaaaaaff; color: #000000ff;">
     <p>"Walid Ghouzza est un coach dévoué et soucieux du bien-être des jeunes au sein du club CDK. Il accompagne avec sérieux les enfants de 8 à 12 ans dans leur apprentissage du jiu-jitsu brésilien, en leur inculquant des valeurs essentielles telles que le respect et la discipline. Grâce à sa patience, son écoute attentive, et sa capacité à s’adapter aux besoins individuels, chaque enfant progresse à son rythme, gagnant en confiance et en technique. Son engagement et son professionnalisme font de Walid un atout inestimable pour le club, apprécié par les parents et les jeunes"</p>
