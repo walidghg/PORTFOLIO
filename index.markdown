@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<section class="hero">
+<section class="hero" markdown="1">
 
-# Walid Ghouzza.
+# Walid<br>Ghouzza.
 
 Bonjour, je m'appelle Walid Ghouzza, j'ai 20 ans et je suis en formation de développeur web chez Epitech. Combattant de jiu-jitsu brésilien, je combine la rigueur du sport et la précision du code.
 
 </section>
 
-## Mes Valeurs
+<h2 class="section-title">Mes Valeurs</h2>
 
 <section class="grid">
 <div class="card" markdown="1">
@@ -33,19 +33,19 @@ Indispensable pour améliorer les performances d'un élève ou surmonter des obs
 </div>
 </section>
 
-## Témoignages
+<h2 class="section-title">Témoignages</h2>
 
 <section class="grid">
 <div class="card" style="background: #aaaaaaff; color: #000000ff;" markdown="1">
 
-> "Walid Ghouzza est un coach dévoué et soucieux du bien-être des jeunes au sein du club CDK... Son engagement et son professionnalisme font de Walid un atout inestimable pour le club, apprécié par les parents et les jeunes"
+> "Walid Ghouzza est un coach dévoué... (ton texte)... apprécié par les parents et les jeunes"
 >
 > **— Ludovic Deston**
 
 </div>
 <div class="card" style="background: #adadadff; color: #000000ff;" markdown="1">
 
-> "Cet employé est non seulement sérieux et ponctuel, mais il effectue également un travail propre et d'une grande qualité... De plus, il fait preuve d'une attitude positive et d'un grand sens de l'organisation."
+> "Cet employé est non seulement sérieux... (ton texte)... résultats constamment satisfaisants."
 >
 > **— Hind degdag**
 
