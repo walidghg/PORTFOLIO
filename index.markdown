@@ -4,7 +4,7 @@ layout: default
 
 <section class="hero" markdown="1">
 
-# Walid<br>Ghouzza.
+# Walid<br>Ghouzza
 
 Bonjour, je m’appelle Walid Ghouzza, j’ai 20 ans et je suis en formation de développeur web chez Epitech. Combattant de jiu-jitsu brésilien, je combine la rigueur du sport et la précision du code.
 
